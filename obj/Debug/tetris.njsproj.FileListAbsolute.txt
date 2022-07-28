@@ -1,0 +1,3 @@
+C:\Users\badabing\Desktop\tetris\tetris\obj\Debug\tetris.njsproj.AssemblyReference.cache
+C:\Users\badabing\Desktop\tetris\tetris\obj\Debug\tetris.njsproj.CoreCompileInputs.cache
+C:\Users\badabing\Desktop\tetris\tetris\bin\Microsoft.NodejsTools.WebRole.dll
